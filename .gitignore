@@ -1,0 +1,15 @@
+﻿target/
+*.class
+*.log
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
+.env
+.env.*
+!.env.example
+application-local.properties
+application-secret.properties
+
+src/main/resources/application.properties
