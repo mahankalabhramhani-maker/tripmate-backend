@@ -1,6 +1,10 @@
-target/
-.git/
+ 
+.git
 .gitignore
-*.md
-.idea/
 .vscode/
+target/
+*.log
+.env
+.env.*
+
+ 
